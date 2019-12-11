@@ -1,0 +1,21 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "记录平常发现的一些小工具，小知识（杂记）",
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazhili0321/utils.git"
+  },
+  "author": "mazhili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazhili0321/utils/issues"
+  },
+  "homepage": "https://github.com/mazhili0321/utils#readme",
+  "dependencies": {
+    "commitizen": "^4.0.3"
+  }
+}
