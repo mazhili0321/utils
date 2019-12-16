@@ -1,7 +1,7 @@
 # js 实现一个简单的Popver效果
 
-| 当鼠标滑过按钮时，显示Popver；当鼠标移出按钮时，隐藏Popver
-| 当鼠标在Popver内时，显示Popver；当鼠标移出Popver时，隐藏Popver
+> 当鼠标滑过按钮时，显示Popver；当鼠标移出按钮时，隐藏Popver<br>
+> 当鼠标在Popver内时，显示Popver；当鼠标移出Popver时，隐藏Popver
 
 ### CSS只列出了大概，具体的样式还需要自己编写.
 
