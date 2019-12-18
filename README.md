@@ -7,5 +7,3 @@
 > [原生实现Popver效果](./popver/popver.md)
 
 > [双向锚点定位实现](./achor/achor.md)
-
-> [免安装录制屏幕转gif图的工具](./ScreenToGif.exe)
